@@ -1,0 +1,19 @@
+# robots.txt for http://www.ashusharma.com/ 
+User-agent: *
+Disallow: /Script/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /graphics/
+Disallow: /js/
+Disallow: /userPic/
+Disallow: /view/
+
+Disallow: /*?aff_id=
+Disallow: /*&aff_id=
+Disallow: /*?Aff_id=
+Disallow: /*&Aff_id=
+Disallow: /*?AFF_ID=
+Disallow: /*&AFF_ID=
+Disallow: /*?aFF_id=
+Disallow: /*&aFF_id=
+Disallow: /Script
